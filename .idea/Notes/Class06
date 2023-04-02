@@ -20,3 +20,19 @@ APPROACH;
 2. test it and commit it in the local repo
 3.push the code to github.
 ______________________________________________
+
+requrement 2;
+
+please add the feature sun in the solar system
+it should have the solor, temperature, radius of the sun addded.
+once the tast is done and tested please merge it to the "main" on your local and then update the github branch
+
+Dana:
+Appraoch:
+1.clone it
+2.open in intellij
+3.create a new branch out of the main
+4.add the feature and test it
+5.merge your brach to main
+6.update the remote
+
