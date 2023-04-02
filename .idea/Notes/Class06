@@ -1,0 +1,22 @@
+*****Branches*******
+
+we need branches to void conflicts in every commit
+
+we need branches not to mess up the main branch
+
+
+Sceanrio:
+a company want to develope a solor system
+
+
+Requirements;
+
+Develope a solar system basic operational model and deploy it.
+
+ANNA;
+APPROACH;
+
+1.write the code
+2. test it and commit it in the local repo
+3.push the code to github.
+______________________________________________
